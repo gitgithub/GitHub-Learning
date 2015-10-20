@@ -1,2 +1,2 @@
-ECHO is on.
+ECHO is on/off.
 Edited by Trunal Sakhare
