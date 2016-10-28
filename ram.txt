@@ -1,2 +1,3 @@
 I am rebasing local branch into master branch
 new change made
+conflicts
