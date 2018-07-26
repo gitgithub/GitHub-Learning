@@ -7,3 +7,4 @@ amend a commit
 Edited  'SAM'
 edited "Hello"
 edited by harshabardhan
+edit by manaoj
