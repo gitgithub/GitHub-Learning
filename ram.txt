@@ -1,4 +1,4 @@
 I am rebasing local branch into master branch
 new change made
 conflict
-
+th is done
