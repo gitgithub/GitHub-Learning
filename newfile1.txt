@@ -1,11 +1,2 @@
 ECHO is on/off.
-Edited by Trunal Sakhare
-edited byswati
-edited by AJ (Amol Jadhav )
-edited by Parthav46 (Parthav Patel)
-amend a commit
-Edited  'SAM'
-edited "Hello"
-edited by harshabardhan
-edit by manaoj
-edited by praveenpcpc0000
+Edited shivshankar Rajput
